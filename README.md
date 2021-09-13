@@ -7,8 +7,6 @@ As students of a school that already lacks a campus and after having been throug
 ### For whom?
 For NYU students, professors, and faculty who live, attend classes, or spend time around NYU's Manhattan campus. Right now the app would be focused on a specific area/neighborhood, but in the future could be expanded to more areas and the general public. 
 
-Understanding who your end-users are, and ideally speaking with some along the way, will help you refine your designs to be suitable for your audience, and understand whether you have succeeded at the end or not.
-
 ### How?
 The app will contain two main features:
 1. A social media/sharing platform. This platform is where users can post recipes, items they bought from local grocery stores, food from local restaurants, or anything else they want to share. The social media side of the app will also feature topics that students can discuss in a forum-like area. Sample topics include: Street Food, Bubble Tea, Italian food, 3-ingredient meals, et cetera. 
