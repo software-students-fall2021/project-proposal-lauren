@@ -11,7 +11,7 @@ Understanding who your end-users are, and ideally speaking with some along the w
 
 ### How?
 The app will contain two main features:
-1. A social media/sharing platform. This platform is where users can post recipes, items they bought from local grocery stores, food from local restaurants, or anything else they want to share. The social media side of the app will also feature topics that students can discuss in a forum-like area. 
+1. A social media/sharing platform. This platform is where users can post recipes, items they bought from local grocery stores, food from local restaurants, or anything else they want to share. The social media side of the app will also feature topics that students can discuss in a forum-like area. Sample topics include: Bubble Tea, Italian food, 3-ingredient meals, et cetera. 
 
 2. A map to show NYU community-made reviews / threads / comments on restaurants / grocery stores (any store with a geodata). 
 
