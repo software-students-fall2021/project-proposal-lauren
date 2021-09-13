@@ -1,5 +1,6 @@
 ### Project title
 Possible titles: ...?
+## By: Lauren Gatesman, Seunggun Lee, and Jin Kim
 
 ### What and why?
 As students of a school that already lacks a campus and after having been through a global pandemic that’s kept all of us at home, it would be natural for us to assume that the new school year brings with it a plethora of hope and joy but also much adversity for those who have yet to step on school grounds. Looking back upon our own years at NYU, it is without a doubt that many of us have had trouble acclimating to a new and somewhat daunting environment that is NYC. As an act of sheer charity and good will, we wish to provide guidance on where students can find recipes, grocery stores, and even restaurantes that offer products at a relatively affordable price and a platform through which returning students can help those who are stepping into NYC for the first time.
