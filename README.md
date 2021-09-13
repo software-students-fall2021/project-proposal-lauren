@@ -18,3 +18,4 @@ The app will contain two main features:
 For both parts of the app, users will be able to filter by what they want to see at that moment: certain food groups, recipes, restaurants, specific cuisines (e.g. Japanese, Italian, etc.), accomodate for allergies, price-points, and more. 
 
 ### Scope
+This project splits into two main functionalities: the map view, and the social-media view.  A well-designed database can provide for both views, as each social media post will be tagged with geo-data. The map will be integrated with available APIs (such as deck.gl or Google Maps), which would remove the need to implement it from scratch. The relative simplicity of CRUD (Create-Read-Update-Delete) operations and the intuitive social-media style user interface will make this project appropriate for the 14-week course.
