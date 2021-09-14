@@ -1,4 +1,4 @@
-## Ginger: Finding Community Through Food
+## Potluck: Finding Community Through Food
 #### By: Lauren Gatesman, Seunggun Lee, and Jin Kim
 
 ### What and why?
