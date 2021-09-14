@@ -1,15 +1,17 @@
-### Project title
-Possible titles: ...?
+### Ginger: Finding Community Through Food
 #### By: Lauren Gatesman, Seunggun Lee, and Jin Kim
 
 ### What and why?
-As students of a school that already lacks a campus and after having been through a global pandemic that’s kept all of us at home, it would be natural for us to assume that the new school year brings with it a plethora of hope and joy - but also much adversity for those who have yet to step on school grounds. Looking back upon our own years at NYU, it is without a doubt that many of us have had trouble acclimating to the new and somewhat daunting environment that is NYC. As an act of sheer charity and good will, we wish to provide guidance on where students can find recipes grocery stores that offer products at a relatively affordable price and a platform through which returning students can help those who are stepping into NYC for the first time - ultimately, students can find community through food.
+As students of a school that already lacks a campus and after having been through a global pandemic that’s kept all of us at home, it would be natural for us to assume that the new school year brings with it a plethora of hope and joy - but also much adversity for those who have yet to step on school grounds. Looking back upon our own years at NYU, it is without a doubt that many of us have had trouble acclimating to the new and somewhat daunting environment that is NYC. 
+
+As an act of sheer charity and good will, we wish to provide an application that fosters community through food -  where students can find and share recipes, food carts and street food, grocery stores, and chat about different topics. The app will provide NYU'ers a place to share their tips and tricks for living and cooking in the city.
 
 ### For whom?
 For NYU students, professors, and faculty who live, attend classes, or spend time around NYU's Manhattan campus. Right now the app would be focused on a specific area/neighborhood, but in the future could be expanded to more areas and the general public. 
 
 ### How?
 The app will contain two main features:
+
 1. A social media/sharing platform. This platform is where users can post recipes, items they bought from local grocery stores, food from local restaurants, or anything else they want to share. The social media side of the app will also feature topics that students can discuss in a forum-like area. Sample topics include: Street Food, Bubble Tea, Italian food, 3-ingredient meals, et cetera. 
 
 2. A map to show NYU community-made reviews / threads / Street Food carts / grocery stores (any food-related location with a geodata). 
